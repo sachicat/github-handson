@@ -56,7 +56,8 @@ GitHubのシステムの最も肝の部分であるPull Requestについて実�
 ### その他のGitHubの機能(10分)
 
 ### 質疑応答(10分)
-
+---
+### TEST SLIDE
 ---
 
 # GitHubに登録してみよう
